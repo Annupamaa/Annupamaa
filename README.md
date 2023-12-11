@@ -13,7 +13,7 @@
  
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer;Django+Developer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer&center=true&width=380&height=45"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
