@@ -10,9 +10,8 @@
 </ul>
 </div>
 
- 
+![Car GIF](/Users/anupama/Downloads/car.gif)
 
-![Uploading car.gif…]()
 
  
 
