@@ -1,18 +1,19 @@
-<h1 align="center">Hi 👋, I'm Anupama</h1>
- <div style=“display:flex>
-<ul>
-<li>I am an aspiring Full Stack Developer</li>
-<li>I am currently a B-Tech CSE first year student </li> 
-<li> I am currently leaning *Front-End* </li> 
-<li> Open source enthusiast  </li> 
-<li>💬 Ask me about **Front-End**</li> 
-<li>📫 How to reach me **annu242005@gmail.com**</li> 
-</ul>
+<div style="display: flex; align-items: center;">
+  
+  <div>
+    <h1>Hi 👋, I'm Anupama</h1>
+    <ul style="list-style-type: none;">
+      <li>I am an aspiring Full Stack Developer</li>
+      <li>I am currently a B-Tech CSE first-year student</li> 
+      <li>I am currently learning Front-End</li> 
+      <li>Open source enthusiast</li> 
+      <li>💬 Ask me about Front-End</li> 
+      <li>📫 How to reach me annu242005@gmail.com</li> 
+    </ul>
+  </div>
 </div>
 
-![Car GIF](car.gif)
-
-
+ <img src="car.gif" alt="Car GIF" style="height: 200px; margin-right: 20px;">
  
 
 <p align="center">
