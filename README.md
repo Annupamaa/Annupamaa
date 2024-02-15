@@ -7,7 +7,7 @@
       <li>I am currently a B-Tech CSE first-year student</li> 
       <li>I am currently learning Web Development .</li> 
       <li>Open source enthusiast</li> 
-      <li>📫 How to reach me annu242005@gmail.com. </li> 
+      <li>📫 How to reach me annu242005@gmail.com </li> 
     </ul>
   </div>
  
