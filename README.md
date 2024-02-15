@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+ 
   
   <div>
     <h1>Hi 👋, I'm Anupama</h1>
@@ -10,7 +10,7 @@
       <li>📫 How to reach me annu242005@gmail.com</li> 
     </ul>
   </div>
-</div>
+ 
 
  <img src="car.gif" alt="Car GIF" style="height: 200px; margin-right: 20px;">
  
