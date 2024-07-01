@@ -4,7 +4,7 @@
     <h1>Hi 👋, I'm Anupama</h1>
     <ul style="list-style-type: none;">
       <li>I am an aspiring Full Stack Developer</li>
-      <li>I am currently a B-Tech CSE first-year student</li> 
+      <li>I am currently a B-Tech CSE second-year student</li> 
       <li>I am currently learning Web Development .</li> 
       <li>Open source enthusiast</li> 
       <li>📫 How to reach me annu242005@gmail.com </li> 
