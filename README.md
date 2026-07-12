@@ -1,32 +1,78 @@
- 
-  
-  <div>
-    <h1>Hi 👋, I'm Anupama</h1>
-    <ul style="list-style-type: none;">
-      <li>I am an aspiring Full Stack Developer</li>
-      <li>I am currently a B-Tech CSE second-year student</li> 
-      <li>I am currently learning Web Development .</li> 
-      <li>Open source enthusiast</li> 
-      <li>📫 How to reach me annu242005@gmail.com </li> 
-    </ul>
-  </div>
- 
+# Hi 👋, I'm Anupama 
 
- <img src="car.gif" alt="Car GIF" style="height: 200px; margin-right: 20px;">
- 
+### Software Engineer | Full Stack Developer
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer&center=true&width=380&height=45"></a>
+I'm a Computer Science undergraduate passionate about building scalable web applications, contributing to open source, and continuously learning new technologies.
+
+- 💻 MERN Stack Developer
+- 🐘 Open Source Contributor (PostgreSQL Ecosystem)
+- 🚀 Interested in Backend Development
+- 🤝 Open to collaboration on interesting projects
+- 📫 Reach me at **annuupamaa@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="[Anupama](https://www.linkedin.com/in/anupama-choudhary/)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:annuupamaa@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/Annupamaa">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
- 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p> 
+## 💻 Tech Stack
 
-### 📊 GitHub Stats
+### Languages
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Annupamaa&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
+</p>
 
+### Frontend
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=annupamaa&show_icons=true&locale=en&layout=compact" alt="annupamaa" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Generative AI
+- System Design
+- Docker
+- Cloud Computing
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** annuupamaa@gmail.com
+- 💼 **LinkedIn:** [Anupama](https://www.linkedin.com/in/anupama-choudhary/)
+
